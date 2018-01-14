@@ -70,7 +70,7 @@
 <p style="padding-left:20px;">Zip &#8594; City</p>
 <p>Which confirms that both the relations are in BCNF.</p>
 <a href="DBN.jsp">Click here to take the test! </a>
-<a href="DBNassign.jsp">Click here to attempt the assignment! </a>
+
 
 <hr />
 </body>
